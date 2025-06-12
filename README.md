@@ -1,0 +1,62 @@
+# 👋 Hello, I'm WolfBytes2001
+
+**Backend API Developer | Desktop App Engineer | Cross-Platform Mobile Developer**
+
+## 🛠️ Technical Stack
+
+### Backend Development
+- **PHP** (API development)
+- Database: **PostgreSQL** & **MySQL**
+- RESTful API design
+- Authentication systems (JWT, OAuth)
+
+### Desktop Development
+- **C#** (.NET Framework/.NET Core)
+- WPF & Windows Forms
+- Console applications
+
+### Mobile & Cross-Platform
+- **Flutter** (Dart)
+- Firebase integration
+- State management (Provider, Bloc)
+
+### Web Development (Learning)
+- **Nuxt.js** (Vue.js framework)
+- Modern JavaScript/TypeScript
+- SSR/SSG concepts
+
+## 🌱 Currently Learning
+- Advanced Nuxt.js concepts
+- Vue 3 Composition API
+- Server-side rendering optimizations
+- Microservices architecture
+
+## 💞️ Collaboration Interests
+I'm open to collaborating on:
+- API development projects
+- Open-source PHP packages
+- Flutter plugins/packages
+- C# utility libraries
+- Nuxt.js starter templates
+
+## 📫 How to Reach Me
+- GitHub: [@WolfBytes2001](https://github.com/WolfBytes2001)
+- LinkedIn: [Your LinkedIn Profile]()
+- Twitter: [@YourHandle]()
+- Email: your.email@example.com
+
+## 🚀 Recent Projects
+1. **[PHP REST API Framework]** - Custom lightweight API framework
+2. **[Flutter Productivity App]** - Cross-platform task manager
+3. **[C# Database Tool]** - Desktop utility for DB management
+4. **[Nuxt.js Learning Repo]** - My Nuxt.js experimentation playground
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=WolfBytes2001&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WolfBytes2001&layout=compact&theme=dark)
+
+<!---
+WolfBytes2001/WolfBytes2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
