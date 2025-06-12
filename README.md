@@ -1,19 +1,20 @@
 # 👋 Hello, I'm WolfBytes2001
 
-**Backend API Developer | Desktop App Engineer | Cross-Platform Mobile Developer**
+**Desktop App Developer |  Backend API Developer | Cross-Platform Mobile Developer**
 
 ## 🛠️ Technical Stack
 
+### Desktop Development
+- **C#** (.NET Framework/.NET Core)
+- **VB.NET** (.NET Framework/.NET Core)
+- WPF & Windows Forms
+
 ### Backend Development
+
 - **PHP** (API development)
 - Database: **PostgreSQL** & **MySQL**
 - RESTful API design
 - Authentication systems (JWT, OAuth)
-
-### Desktop Development
-- **C#** (.NET Framework/.NET Core)
-- WPF & Windows Forms
-- Console applications
 
 ### Mobile & Cross-Platform
 - **Flutter** (Dart)
