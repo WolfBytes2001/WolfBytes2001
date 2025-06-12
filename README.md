@@ -2,7 +2,7 @@
 
 **Desktop App Developer |  Backend API Developer | Cross-Platform Mobile Developer**
 
-## 🛠️ Technical Stack
+## 🛠️ Technology Stack
 
 ### Desktop Development
 - **C#** (.NET Framework/.NET Core)
