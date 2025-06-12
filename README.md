@@ -41,14 +41,14 @@ I'm open to collaborating on:
 
 ## 📫 How to Reach Me
 - GitHub: [@WolfBytes2001](https://github.com/WolfBytes2001)
-- LinkedIn: [Your LinkedIn Profile]()
-- Twitter: [@YourHandle]()
-- Email: your.email@example.com
+- LinkedIn: 
+- Twitter: 
+- Email: 
 
 ## 🚀 Recent Projects
 1. **[PHP REST API Framework]** - Custom lightweight API framework
-2. **[Flutter Productivity App]** - Cross-platform task manager
-3. **[C# Database Tool]** - Desktop utility for DB management
+2. **[Flutter Productivity App]** - Mystichat Discreet Chat Application
+3. **[C# Laboratory Tool]** - Desktop utility for Laboratory Management with AI
 4. **[Nuxt.js Learning Repo]** - My Nuxt.js experimentation playground
 
 ## 📊 GitHub Stats
