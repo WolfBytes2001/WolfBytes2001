@@ -55,7 +55,13 @@ I'm open to collaborating on:
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=WolfBytes2001&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WolfBytes2001&layout=compact&theme=dark)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WolfBytes2001&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/
+?username=WolfBytes2001
+&layout=compact
+&theme=dark
+&size_weight=0.5
+&count_weight=0.5
+)
 
 <!---
 WolfBytes2001/WolfBytes2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
